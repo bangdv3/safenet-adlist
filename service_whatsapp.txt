@@ -1,0 +1,7 @@
+whatsapp.com
+account.whatsapp.com
+alpha.whatsapp.com
+api.whatsapp.com
+
+whatsapp.net
+#fbcdn.net

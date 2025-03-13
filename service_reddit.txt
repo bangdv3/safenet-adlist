@@ -1,0 +1,16 @@
+reddit.com
+reddit.map.fastly.net
+redd.it
+
+# media & cdn
+amp-reddit-com.cdn.ampproject.org
+redditblog.com
+redditgifts.com
+redditmedia.com
+reddit-stream.com
+reddit-image.s3.amazonaws.com
+reddit-uploaded-media.s3-accelerate.amazonaws.com
+reddit-uploaded-video.s3-accelerate.amazonaws.com
+
+redditinc.com
+redditstatic.com
