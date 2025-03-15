@@ -1,3 +1,59 @@
+# Game news
+ign.com  
+gamespot.com  
+polygon.com  
+pcgamer.com  
+gameinformer.com  
+kotaku.com  
+eurogamer.net  
+destructoid.com  
+rockpapershotgun.com  
+gamerant.com  
+
+# Esport
+esportsinsider.com  
+liquipedia.net  
+hltv.org (CS:GO)  
+dotesports.com  
+esportsearnings.com  
+thescoreesports.com  
+
+# Game store    
+steampowered.com  
+epicgames.com  
+gog.com
+roblox.com  
+nintendo.com  
+playstation.com  
+xbox.com  
+humblebundle.com  
+greenmangaming.com  
+itch.io
+
+# Wiki Game
+howlongtobeat.com  
+metacritic.com/game  
+mobygames.com  
+fandom.com/game  
+giantbomb.com  
+
+# Game content (streaming)
+twitch.tv  
+kick.com  
+trovo.live  
+niconico.jp  
+
+# Game guide
+isthereanydeal.com 
+pcpartpicker.com 
+prosettings.net
+fpsbenchmark.com  
+
+# Community 
+resetera.com  
+gamefaqs.gamespot.com  
+neogaf.com  
+
 
 #kid games
 pbskids.org
@@ -11,16 +67,3 @@ animaljam.com
 abcmouse.com
 nickjr.com
 
-#among us
-us1.iam.games
-us2.iam.games
-eu1.iam.games
-eu2.iam.games
-asia1.iam.games
-asia2.iam.games
-sa1.iam.games
-sa2.iam.games
-oceania1.iam.games
-oceania2.iam.games
-amongusgame.com
-innersloth.com

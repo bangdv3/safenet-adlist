@@ -1,0 +1,59 @@
+# International
+cnn.com
+bbc.com
+reuters.com
+bloomberg.com
+aljazeera.com
+apnews.com
+npr.org
+
+# America
+cnn.com
+bbc.com
+reuters.com
+bloomberg.com
+aljazeera.com
+apnews.com
+npr.org
+
+# England
+theguardian.com
+dailymail.co.uk
+independent.co.uk
+telegraph.co.uk
+thesun.co.uk
+mirror.co.uk
+ft.com
+sky.com
+
+# France
+lemonde.fr
+lefigaro.fr
+france24.com
+liberation.fr
+leparisien.fr
+
+# German
+dw.com
+spiegel.de
+faz.net
+sueddeutsche.de
+zeit.de
+
+# Japan
+japantimes.co.jp
+asahi.com
+nikkei.com
+mainichi.jp
+nhk.or.jp
+
+# Vietnam
+vnexpress.net
+dantri.com.vn
+tuoitre.vn
+thanhnien.vn
+zingnews.vn
+kenh14.vn
+cafef.vn
+baotintuc.vn
+baomoi.com

@@ -1,0 +1,57 @@
+# Movie
+netflix.com  
+disneyplus.com  
+hulu.com  
+primevideo.com  
+hbomax.com 
+peacocktv.com  
+paramountplus.com  
+crunchyroll.com
+funimation.com
+
+# Music
+spotify.com  
+apple.com/music  
+tidal.com  
+deezer.com  
+soundcloud.com  
+pandora.com  
+iheartradio.com  
+#stitcher.com  
+#audible.com
+
+# Game
+steampowered.com  
+epicgames.com  
+gog.com  
+twitch.tv
+roblox.com  
+nintendo.com  
+playstation.com  
+xbox.com  
+
+youtube.com  
+vimeo.com  
+dailymotion.com  
+tiktok.com  
+twitch.tv  
+bilibili.com  
+rumble.com
+
+# manga
+webtoons.com  
+mangadex.org  
+mangaplus.shueisha.co.jp  
+wattpad.com  
+archiveofourown.org  
+#goodreads.com
+#projectgutenberg.org 
+
+# meme
+9gag.com  
+reddit.com 
+imgur.com  
+ifunny.co
+knowyourmeme.com  
+boredpanda.com  
+theonion.com 

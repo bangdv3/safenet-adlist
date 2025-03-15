@@ -1,0 +1,24 @@
+# Medical list 
+
+who.int
+cdc.gov
+nih.gov
+fda.gov
+mayoclinic.org
+webmd.com
+medlineplus.gov
+healthline.com
+emedicinehealth.com
+verywellhealth.com
+rxlist.com
+drugs.com
+clevelandclinic.org
+hopkinsmedicine.org
+medscape.com
+medicinenet.com
+goodrx.com
+nhs.uk
+bmj.com
+thelancet.com
+nejm.org
+jamanetwork.com

@@ -1,0 +1,76 @@
+# Global
+espn.com
+bleacherreport.com
+skysports.com
+cbssports.com
+foxsports.com
+nbcsports.com
+si.com (Sports Illustrated)
+tsn.ca
+eurosport.com
+
+# Football
+goal.com
+fifa.com
+uefa.com
+espnfc.com
+90min.com
+fourfourtwo.com
+transfermarkt.com
+whoscored.com
+theathletic.com
+
+# NBA & Backet ball
+nba.com
+espn.com/nba
+bleacherreport.com/nba
+hoopshype.com
+basketball-reference.com
+slamonline.com
+nbcsports.com/nba
+
+# F1 racing
+formula1.com
+motorsport.com
+autosport.com
+motogp.com
+nascar.com
+racer.com
+crash.net
+
+# America Football
+nfl.com
+espn.com/nfl
+bleacherreport.com/nfl
+cbssports.com/nfl
+pff.com (Pro Football Focus)
+sports.yahoo.com/nfl
+
+# Tenis
+atptour.com
+wtatennis.com
+tennis.com
+espn.com/tennis
+tennisworldusa.org
+
+# Base ball
+mlb.com
+espn.com/mlb
+fangraphs.com
+baseball-reference.com
+japanesebaseball.com (NPB)
+koreabaseball.com (KBO)
+
+# Martial Art
+ufc.com
+mmafighting.com
+sherdog.com
+boxingnews24.com
+espn.com/mma
+wwe.com
+
+# Hockey
+nhl.com
+espn.com/nhl
+thehockeynews.com
+eliteprospects.com

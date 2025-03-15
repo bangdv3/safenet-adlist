@@ -1,0 +1,48 @@
+#bbc.com/politics  
+#cnn.com/politics  
+#reuters.com/politics  
+#aljazeera.com/politics  
+#theguardian.com/politics  
+politico.com  
+#nytimes.com/section/politics  
+#washingtonpost.com/politics  
+#bloomberg.com/politics  
+#theatlantic.com/politics  
+foreignaffairs.com  
+
+# America
+whitehouse.gov  
+congress.gov  
+fivethirtyeight.com  
+realclearpolitics.com  
+thehill.com  
+vox.com/politics  
+nationalreview.com  
+motherjones.com  
+thefederalist.com  
+#huffpost.com/news/politics  
+c-span.org  
+
+# Euro
+politico.eu  
+euractiv.com  
+euobserver.com  
+europarl.europa.eu   
+ilsole24ore.com  
+
+# China
+xinhuanet.com  
+globaltimes.cn  
+scmp.com
+chinausfocus.com  
+
+# Rusia
+rt.com 
+tass.com 
+ria.ru 
+meduza.io  
+
+chinhphu.vn  
+quochoi.vn  
+nhandan.vn
+baochinhphu.vn   
