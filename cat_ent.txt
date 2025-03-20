@@ -1,76 +1,113 @@
-# Movie
-netflix.com  
-disneyplus.com  
-hulu.com  
-primevideo.com  
-hbomax.com 
-peacocktv.com  
-paramountplus.com  
-crunchyroll.com
-funimation.com
+# Animation & Motion Graphics
+3d-ace.com  
+agora.community  
+amall.vn  
+animatedjobs.com  
+animategroup.com  
+animationmagazine.net  
+animationmentor.com  
+animationpaper.com  
+animationscoop.com  
+animationstudios.com.au  
+animatron.com  
+animiz.com  
+annieawards.org  
+archanoi.com  
+awn.com  
+axyz-design.com  
+bloopanimation.com  
+boords.com  
+breadnbeyond.com  
+cascadeur.com  
+cartoonbrew.com  
+catsuka.com  
+cgspectrum.com  
+deepmotion.com  
+deedeestudio.net  
+dragonfly.co.uk  
+esma-3d.fr  
+krishastudio.com  
+lottiefiles.com  
+lostmarble.com  
+maac.edu.vn  
+mangoanimate.com  
+mgear-framework.com  
+miendiaoc.vn  
+mixamo.com  
+mpod.vn  
+offeo.com  
+pencil2d.org  
+reallusion.com  
+rokoko.com  
+screenskills.com  
+sua.vn  
+synfig.org  
+temco.vn  
+tinhocannhon.com  
+toei-anim.co.jp  
+toonboom.com  
+truyenqq.net  
+tvc360.vn  
+vevui.net  
+vidico.com  
+videoscribe.co  
+webdew.com  
+wideo.co  
+wingfox.com  
+wow-how.com  
+xaydungchinhnam.vn  
+xilam.com  
 
-# Music
-spotify.com  
-apple.com/music  
-tidal.com  
-deezer.com  
-soundcloud.com  
-pandora.com  
-iheartradio.com  
-#stitcher.com  
-#audible.com
+# Meme
+9gag.com  
+boredpanda.com  
+ifunny.co  
+imgur.com  
+knowyourmeme.com  
+reddit.com  
+theonion.com  
 
-# Game
-steampowered.com  
-epicgames.com  
-gog.com  
-twitch.tv
-roblox.com  
-nintendo.com  
-playstation.com  
-xbox.com  
-
-youtube.com  
-vimeo.com  
-dailymotion.com  
-tiktok.com  
-twitch.tv  
-bilibili.com  
-rumble.com
-
-# manga
-webtoons.com  
+# Manga
+archiveofourown.org  
 mangadex.org  
 mangaplus.shueisha.co.jp  
 wattpad.com  
-archiveofourown.org  
-#goodreads.com
-#projectgutenberg.org 
+webtoons.com  
 
-# meme
-9gag.com  
-reddit.com 
-imgur.com  
-ifunny.co
-knowyourmeme.com  
-boredpanda.com  
-theonion.com 
+# Movie
+crunchyroll.com  
+disneyplus.com  
+funimation.com  
+hbomax.com  
+hulu.com  
+netflix.com  
+paramountplus.com  
+peacocktv.com  
+primevideo.com  
 
+# Music
+apple.com/music  
+deezer.com  
+iheartradio.com  
+pandora.com  
+soundcloud.com  
+spotify.com  
+tidal.com  
 
-# vietnam
-bilutv.net
-biphim.tv
-dongphimmoizz.net
-dongphym.net
-fptplay.vn
-fshare.vn
-gamethu.net
-hdonline.vn
-motphim.net
-phimmoi.net
-phimmoi123.com
-phimmoii.net
-phimmoiizz.net
-phimmoizz.net
-toptruyenqq.com
-truyenqqto.com
+# Vietnam
+bilutv.net  
+biphim.tv  
+dongphimmoizz.net  
+dongphym.net  
+fptplay.vn  
+fshare.vn  
+gamethu.net  
+hdonline.vn  
+motphim.net  
+phimmoi.net  
+phimmoi123.com  
+phimmoii.net  
+phimmoiizz.net  
+phimmoizz.net  
+toptruyenqq.com  
+truyenqqto.com  
