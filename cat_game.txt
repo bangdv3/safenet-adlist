@@ -1,69 +1,141 @@
 # Game news
-ign.com  
-gamespot.com  
-polygon.com  
-pcgamer.com  
-gameinformer.com  
-kotaku.com  
-eurogamer.net  
 destructoid.com  
-rockpapershotgun.com  
+eurogamer.net  
+gameinformer.com  
 gamerant.com  
+gamespot.com  
+ign.com  
+kotaku.com  
+pcgamer.com  
+polygon.com  
+rockpapershotgun.com  
 
 # Esport
-esportsinsider.com  
-liquipedia.net  
-hltv.org (CS:GO)  
 dotesports.com  
 esportsearnings.com  
+esportsinsider.com  
+hltv.org  
+liquipedia.net  
 thescoreesports.com  
 
 # Game store    
-steampowered.com  
 epicgames.com  
-gog.com
-roblox.com  
+gog.com  
+greenmangaming.com  
+humblebundle.com  
+itch.io  
 nintendo.com  
 playstation.com  
+roblox.com  
+steampowered.com  
 xbox.com  
-humblebundle.com  
-greenmangaming.com  
-itch.io
 
 # Wiki Game
+fandom.com/game  
+giantbomb.com  
 howlongtobeat.com  
 metacritic.com/game  
 mobygames.com  
-fandom.com/game  
-giantbomb.com  
 
 # Game content (streaming)
-twitch.tv  
 kick.com  
-trovo.live  
 niconico.jp  
+trovo.live  
+twitch.tv  
 
 # Game guide
-isthereanydeal.com 
-pcpartpicker.com 
-prosettings.net
 fpsbenchmark.com  
+isthereanydeal.com  
+pcpartpicker.com  
+prosettings.net  
 
 # Community 
-resetera.com  
 gamefaqs.gamespot.com  
 neogaf.com  
+resetera.com  
 
+# Kid games
+abckidstracing.com  
+abcmouse.com  
+animaljam.com  
+funbrain.com  
+kids.nationalgeographic.com  
+mathgames.com  
+minecraft.net  
+nickjr.com  
+pbskids.org  
+starfall.com  
 
-#kid games
-pbskids.org
-kids.nationalgeographic.com
-funbrain.com
-starfall.com
-minecraft.net
-abckidstracing.com
-mathgames.com
-animaljam.com
-abcmouse.com
-nickjr.com
-
+# Other gaming-related sites
+2game.vn  
+9minecraft.net  
+apkadmin.com  
+apkmody.io  
+aternos.org  
+bluestacks.com  
+bulbagarden.net  
+communitygaming.io  
+crazygames.com  
+crazygames.nl  
+curseforge.com  
+discord.com  
+divineshop.vn  
+dragoncitygame.com  
+ea.com  
+evowars.io  
+faceit.com  
+game8.co  
+gamebanana.com  
+gamevui.vn  
+gamezop.com  
+garena.com  
+garena.vn  
+granbluefantasy.jp  
+hero-wars.com  
+hoyolab.com  
+igg-games.com  
+kimochi.info  
+leagueofgraphs.com  
+leagueoflegends.com  
+lichess.org  
+linkneverdie.net  
+lolchess.gg  
+lolesports.com  
+mapgenie.io  
+maxroll.gg  
+mcpedl.com  
+metasrc.com  
+mobalytics.gg  
+modsfire.com  
+modrinth.com  
+naraka-thegame.com  
+netmarble.com  
+nexon.com  
+nexusmods.com  
+nimo.tv  
+op.gg  
+planetminecraft.com  
+platinmods.com  
+playok.com  
+playvalorant.com  
+pokemondb.net  
+poki.com  
+progameguides.com  
+qoo-app.com  
+retrogames.cc  
+riotgames.com  
+ryuugames.com  
+steamdb.info  
+supercell.com  
+tactics.tools  
+taptap.io  
+technical.city  
+thegamer.com  
+tiermaker.com  
+tlauncher.org  
+tracker.gg  
+unity.com  
+vlr.gg  
+wargaming.net  
+worldoftanks.asia  
+y8.com  
